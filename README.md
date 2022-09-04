@@ -1,0 +1,2 @@
+# zistwar-nou-dodo
+For the Final Project,  Zistwar Nou Dodo (which translates to Story of our Dodo) was created and it is a 2D game where the player guides a Dodo across a side-scrolling Mauritian landscape, avoiding invaders (obstacles) to achieve a higher score.  As the game progresses, the speed of play gradually increases until the user hits an obstacle, prompting an instant game over - the extinction of the Dodo.  The game starts in 1507 (The year during which the Dodo was first discovered) and ends in 1662. 
